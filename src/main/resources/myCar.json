@@ -1,0 +1,10 @@
+{
+  "brand" : "Fiat",
+  "model" : "Punto",
+  "year" : 2015,
+  "horsePower" : 80,
+  "owner" : {
+    "name" : "Jan",
+    "lastName" : "Kowalski"
+  }
+}
